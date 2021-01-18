@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+footer {
+    background-image: linear-gradient(to right, darkred, red);
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+  }

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+nav {
+    border: 2px solid black;
+    background-image: linear-gradient(to right, darkred, red);
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 26px;
+}
+
+.nav-link {
+    font-size: 22px;
+}
