@@ -27,6 +27,10 @@
     font-size: small;
 }
 
+button:hover {
+    border: solid white 2px;
+}
+
 .port-card {
     border: solid 2px black;
     padding: 10px;

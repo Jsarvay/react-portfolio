@@ -1,30 +1,22 @@
 import React from "react";
 import logo from "../../images/Sarvay-Stack-Logo (2).png";
 import resume from "../../assets/JordanSarvayResume.docx.pdf";
+import {Navbar, Nav} from "react-bootstrap";
 import "./style.css";
 
 function Header() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-light">
-        <a className="navbar-brand" href="/"><img className="float-left image-fluid" src={logo} alt="Sarvay Logo" /></a>
-        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
-        </button>
-      
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav ml-auto">
-            <li className="nav-item">
-                <a className="nav-link" href="/portfolio">Portfolio</a>
-            </li>
-            <li className="nav-item">
-                <a className="nav-link" href="/">About</a>
-            </li>
-            <li className="nav-item">
-                <a className="nav-link" href={resume}>Resume</a>
-            </li>
-          </ul>
-        </div>
-    </nav>
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+      <Navbar.Brand href="/"><img className="float-left image-fluid" src={logo} alt="Sarvay Logo" /></Navbar.Brand>
+      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+      <Navbar.Collapse id="responsive-navbar-nav">
+        <Nav className="ml-auto">
+          <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+          <Nav.Link href="/">About</Nav.Link>
+          <Nav.Link href={resume}>Resume</Nav.Link>
+        </Nav>
+      </Navbar.Collapse>
+    </Navbar>
     )
 };
 

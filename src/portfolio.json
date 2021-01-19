@@ -43,5 +43,14 @@
         "github": "http://sarvay-burger.herokuapp.com/",
         "description": "An MVC app that allows users to enter burgers and add them to a database and then edit their database properties all in one page.",
         "tools": "Bootstrap, Express, MongoDB, Mongoose, JQuery, CSS"
+    },
+    {
+        "id": "6",
+        "name": "React Employee Directory",
+        "image": "directory.png",
+        "deployed": "https://jsarvay.github.io/React-Employee-Directory/",
+        "github": "https://github.com/Jsarvay/React-Employee-Directory",
+        "description": "A React App that makes a call to the randomuser Api in order to populate a list of employees and then allow for dynamically sorting and searching through that database.",
+        "tools": "Bootstrap, Express, CSS, React, Axios, randomuser API"
     }
 ]

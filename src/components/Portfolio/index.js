@@ -29,6 +29,7 @@ class Portfolio extends Component {
                             <a href="#3"><button className="port-button" id="weatherApp" class="port-button">Sarvay's Weather App</button></a>
                             <a href="#4"><button className="port-button" id="codeQuiz" class="port-button">Code Quiz</button></a>
                             <a href="#5"><button className="port-button" id="burgerApp" class="port-button">Burger App</button></a>
+                            <a href="#6"><button className="port-button" id="directory" class="port-button">React Employee Directory</button></a>
                             </div>
                         </div>
                         </div>

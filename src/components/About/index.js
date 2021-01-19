@@ -28,13 +28,16 @@ function About() {
                         </div>
 
                         <div className="row about">
-                          <div className="col-md-4">
+                          <div className="col-md-3">
                             <p className="bit">E-mail: </p><a className="contact" href= "mailto:jordans1@vt.edu">sarvayjordan@gmail.com</a>
                           </div>
-                          <div class="col-md-4">
+                          <div className="col-md-3">
+                            <p className="bit">Phone: </p><p className="contact">804-305-4878</p>
+                          </div>
+                          <div class="col-md-3">
                             <p className="bit">Github: </p><a className="contact" href="https://github.com/Jsarvay">JSarvay</a>
                           </div>
-                          <div class="col-md-4">
+                          <div class="col-md-33">
                             <p class="bit">LinkedIn: </p><a className="contact" href="https://www.linkedin.com/in/jordan-sarvay/">Jordan-Sarvay</a>
                           </div>
                         </div>
