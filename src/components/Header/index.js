@@ -1,5 +1,6 @@
 import React from "react";
-import logo from "../../images/Sarvay-Stack-Logo (2).png"
+import logo from "../../images/Sarvay-Stack-Logo (2).png";
+import resume from "../../assets/JordanSarvayResume.docx.pdf";
 import "./style.css";
 
 function Header() {
@@ -17,6 +18,9 @@ function Header() {
             </li>
             <li className="nav-item">
                 <a className="nav-link" href="/">About</a>
+            </li>
+            <li className="nav-item">
+                <a className="nav-link" href={resume}>Resume</a>
             </li>
           </ul>
         </div>

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.jumbotron {
+    box-shadow: 5px 5px 5px black;
+}
+
+.web-thumb {
+    width: 100%;
+    height: 100%;
+    border: solid black 2px;
+    padding: 0;
+    box-shadow: 2px 2px 2px black;
+}
+
+.button-div {
+    align-content: center;
+}
+
+.port-button {
+    align-content: center;
+    background-image: linear-gradient(to right, darkred, red);
+    color: white;
+    border: solid black 2px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px black;
+    font-family: 'Press Start 2P', cursive;
+    font-size: small;
+}
+
+.port-card {
+    border: solid 2px black;
+    padding: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.port-head {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.port-sub {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.port-desc {
+    text-align: center;
+    margin: 10px;
+}
+
+.port-tools {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}

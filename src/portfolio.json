@@ -2,46 +2,46 @@
     {
         "id": "1",
         "name": "Together:Against",
-        "image": "./images/together.png",
+        "image": "together.png",
         "deployed": "https://leopard-ta.herokuapp.com/",
         "github": "https://github.com/Bertodemus/LeopardLightning",
         "description": "A full stack web app worked on in collaboration with other developers that allows users to create virtual events and create a space for dialogue and voting on the outcome of created events.",
-        "tools": ["Bootstrap", "Handlebars", "Sequelize", "MySQL", "Express", "Passport", "Jdenticon", "Disqus"]
+        "tools": "Bootstrap, Handlebars, Sequelize, MySQL, Express, Passport, Jdenticon, Disqus"
     },
     {
         "id": "2",
         "name": "RVA Venues",
-        "image": "./images/rvavenues.png",
+        "image": "rvavenues.png",
         "deployed": "https://nickelme.github.io/RVAVenues/",
         "github": "https://github.com/Nickelme/RVAVenues",
         "description": "An app that is a collaborative project that allows for users to search for a song through Spotify and receive recommendations for local RVA venues that match that song's style!",
-        "tools": ["Materialize", "JQuery", "Spotify API", "Yelp API", "HTML", "CSS"]
+        "tools": "Materialize, JQuery, Spotify API, Yelp API, HTML, CSS"
     },
     {
         "id": "3",
         "name": "Sarvay's Weather App",
-        "image": "./images/weather.png",
+        "image": "weather.png",
         "deployed": "https://jsarvay.github.io/weather-app/",
         "github": "https://github.com/Jsarvay/weather-app",
         "description": "An app designed with the openweathermap API to pull various weather forecasts!",
-        "tools": ["Bootstrap", "openweathermap API", "HTML", "CSS", "JQuery"]
+        "tools": "Bootstrap, openweathermap API, HTML, CSS, JQuery"
     },
     {
         "id": "4",
         "name": "Coding Quiz",
-        "image": "./images/code.png",
+        "image": "code.png",
         "deployed": "https://jsarvay.github.io/coding_quiz/",
         "github": "https://github.com/Jsarvay/coding_quiz",
         "description": "An app that allows students to answer basic coding questions and be scored!",
-        "tools": ["Bootstrap", "Javascript", "HTML", "CSS"]
+        "tools": "Bootstrap, Javascript, HTML, CSS"
     },
     {
         "id": "5",
         "name": "Burger App",
-        "image": "./images/devour.png",
+        "image": "devour.png",
         "deployed": "http://sarvay-burger.herokuapp.com/",
         "github": "http://sarvay-burger.herokuapp.com/",
         "description": "An MVC app that allows users to enter burgers and add them to a database and then edit their database properties all in one page.",
-        "tools": ["Bootstrap", "Express", "MongoDB", "Mongoose", "JQuery", "CSS"]
+        "tools": "Bootstrap, Express, MongoDB, Mongoose, JQuery, CSS"
     }
 ]

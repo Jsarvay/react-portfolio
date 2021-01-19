@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+.hide-small {
+    visibility: hidden;
+    font-family: 'Press Start 2P', cursive;
+}
+
+@media (max-width: 760px) {
+    .display-4 {
+        display: none;
+    }
+
+    .hide-small {
+        visibility: visible;
+    }
+}
