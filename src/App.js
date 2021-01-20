@@ -11,7 +11,7 @@ function App() {
     <div className="wrapper" id="wrapper">
       <Header />
       <Route exact path="/" component={Home}  />
-      <Route exact path="/portfolio" component={Port} />
+      <Route path="/portfolio" component={Port} />
       <Footer />
     </div>
     </BrowserRouter>
