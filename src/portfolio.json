@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Together:Against",
+        "name": "Together: Against",
         "image": "together.png",
         "deployed": "https://leopard-ta.herokuapp.com/",
         "github": "https://github.com/Bertodemus/LeopardLightning",
