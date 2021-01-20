@@ -41,7 +41,7 @@ function About() {
                           <div class="col-md-3">
                             <p className="bit">Github: </p><a className="contact" href="https://github.com/Jsarvay">JSarvay</a>
                           </div>
-                          <div class="col-md-33">
+                          <div class="col-md-3">
                             <p class="bit">LinkedIn: </p><a className="contact" href="https://www.linkedin.com/in/jordan-sarvay/">Jordan-Sarvay</a>
                           </div>
                         </div>
