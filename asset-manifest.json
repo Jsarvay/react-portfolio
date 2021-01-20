@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce805bd3.chunk.css",
+    "main.js": "/static/js/main.7de84403.chunk.js",
+    "main.js.map": "/static/js/main.7de84403.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53ee5c29.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53ee5c29.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.1ac2e2c5.chunk.js": "/static/js/2.1ac2e2c5.chunk.js",
+    "static/js/2.1ac2e2c5.chunk.js.map": "/static/js/2.1ac2e2c5.chunk.js.map",
+    "static/js/3.3b5fe689.chunk.js": "/static/js/3.3b5fe689.chunk.js",
+    "static/js/3.3b5fe689.chunk.js.map": "/static/js/3.3b5fe689.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.ce805bd3.chunk.css.map": "/static/css/main.ce805bd3.chunk.css.map",
+    "static/js/2.1ac2e2c5.chunk.js.LICENSE.txt": "/static/js/2.1ac2e2c5.chunk.js.LICENSE.txt",
+    "static/media/JordanSarvayResume.docx.81fd1bf4.pdf": "/static/media/JordanSarvayResume.docx.81fd1bf4.pdf",
+    "static/media/App.css": "/static/media/cityscape.48830a53.png",
+    "static/media/code.png": "/static/media/code.da0a87f0.png",
+    "static/media/devour.png": "/static/media/devour.c4ca2498.png",
+    "static/media/directory.png": "/static/media/directory.2dd1f4e3.png",
+    "static/media/rvavenues.png": "/static/media/rvavenues.962fc65f.png",
+    "static/media/sarvay.0a3d3fed.png": "/static/media/sarvay.0a3d3fed.png",
+    "static/media/together.png": "/static/media/together.87c086df.png",
+    "static/media/weather.png": "/static/media/weather.fa9f5eeb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ee5c29.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.1ac2e2c5.chunk.js",
+    "static/css/main.ce805bd3.chunk.css",
+    "static/js/main.7de84403.chunk.js"
+  ]
+}
