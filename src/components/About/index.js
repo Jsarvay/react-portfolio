@@ -1,11 +1,14 @@
 import React from "react";
 import headshot from "../../images/sarvay.png"
+import FadeIn from 'react-fade-in';
 import "./style.css";
 import "../../index.css";
 
 
 function About() {
     return (
+      <FadeIn
+      transitionDuration={2000}>
         <div className="container">
 
             <div className="row">
@@ -17,6 +20,7 @@ function About() {
                         <div className="row">
                             <div className="col-md-12">
                                 <h1 className="display-4">About Me</h1>
+                                <h2 className="hide-small">About Me</h2>
                             </div>
                         </div>
 
@@ -48,6 +52,7 @@ function About() {
             </div>
 
         </div>
+        </FadeIn>
     )
 };
 

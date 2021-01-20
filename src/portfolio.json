@@ -40,7 +40,7 @@
         "name": "Burger App",
         "image": "devour.png",
         "deployed": "http://sarvay-burger.herokuapp.com/",
-        "github": "http://sarvay-burger.herokuapp.com/",
+        "github": "https://github.com/Jsarvay/burger",
         "description": "An MVC app that allows users to enter burgers and add them to a database and then edit their database properties all in one page.",
         "tools": "Bootstrap, Express, MongoDB, Mongoose, JQuery, CSS"
     },

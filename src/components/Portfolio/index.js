@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import Jumboport from "../Jumboport/index";
 import portfolio from "../../portfolio.json";
+import FadeIn from 'react-fade-in';
 import "./style.css";
 
 class Portfolio extends Component {
@@ -10,6 +11,8 @@ class Portfolio extends Component {
 
     render() {
         return(
+            <FadeIn
+            transitionDuration={2000}>
             <div className="container">
                 <div className="row">
                     <div className="col-md-12">
@@ -49,6 +52,7 @@ class Portfolio extends Component {
                         />
                     ))}
             </div>
+            </FadeIn>
         )
     };
 };

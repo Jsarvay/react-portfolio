@@ -32,3 +32,13 @@ img {
 .bit {
     font-family: 'Press Start 2P', cursive;
 }
+
+@media (max-width: 760px) {
+    .display-4 {
+        display: none;
+    }
+
+    .hide-small {
+        visibility: visible;
+    }
+}
