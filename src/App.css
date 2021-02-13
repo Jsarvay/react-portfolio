@@ -1,8 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
 
 .wrapper {
     margin: 0;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Sansita', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: black;
@@ -20,6 +24,6 @@
 }
   
   code {
-    font-family: 'Indie Flower', cursive;
-  }
+    font-family: 'Sansita', sans-serif;
+}
   

@@ -13,7 +13,7 @@ function Header() {
         <Nav className="ml-auto">
           <Nav.Link href="/portfolio">Portfolio</Nav.Link>
           <Nav.Link href="/">About</Nav.Link>
-          <Nav.Link href={resume}>Resume</Nav.Link>
+          <Nav.Link href={resume} target={"_blank"}>Resume</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

@@ -18,7 +18,7 @@ class Portfolio extends Component {
                     <div className="col-md-12">
                     <div className="jumbotron">
                         <div className="row">
-                            <div id="0" className="col-md-12">
+                            <div id="10" className="col-md-12">
                                 <h1 className="display-4">Portfolio</h1>
                                 <h2 className="hide-small">Portfolio</h2>
                             </div>
@@ -27,6 +27,7 @@ class Portfolio extends Component {
 
                         <div className="row">
                             <div className="col-md-12 button-div">
+                            <a href="#0"><button className="port-button" id="jamHammer" class="port-button">JamHammer</button></a>
                             <a href="#1"><button className="port-button" id="togetherAgainst" class="port-button">Together Against</button></a>
                             <a href="#2"><button className="port-button" id="rvaVen" class="port-button">RVA Venues</button></a>
                             <a href="#3"><button className="port-button" id="weatherApp" class="port-button">Sarvay's Weather App</button></a>

@@ -1,5 +1,14 @@
 [
     {
+        "id": "0",
+        "name": "JamHammer",
+        "image": "jam.png",
+        "deployed": "https://jamhammer.herokuapp.com/",
+        "github": "https://github.com/Jsarvay/Jam-Hammer",
+        "description": "A full stack web app made in React that allows musicians to record and share new jams they are working on and interact with jams created by other users, all in one convenient place!",
+        "tools": "React, Bootstrap, MongoDB, Mongoose, Express, Passport, videojs, Wave Surfer, react-media-player, JWT, SW3"
+    },
+    {
         "id": "1",
         "name": "Together: Against",
         "image": "together.png",

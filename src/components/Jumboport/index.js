@@ -16,12 +16,12 @@ function Jumboport(props) {
 
                     <div className="row">
                         <div className="col-md-12 port-card">
-                            <a href={props.deployed}><h4 className="port-head">{props.name}</h4></a>
-                            <a href={props.github}><h5 className="port-sub">Github</h5></a>
+                            <a href={props.deployed} target={"_blank"}><h4 className="port-head">{props.name}</h4></a>
+                            <a href={props.github} target={"_blank"}><h5 className="port-sub">Github</h5></a>
                             <p className="port-desc">{props.description}</p>
                             <p className="port-tools">Tools Used: </p><p className="port-desc">{props.tools}</p>
                         </div>
-                        <a href="#0"><button className="port-button">Return to top</button></a>
+                        <a href="#10"><button className="port-button">Return to top</button></a>
                     </div>
 
                 </div>
