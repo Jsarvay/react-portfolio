@@ -39,10 +39,10 @@ function About() {
                             <p className="bit">Phone: </p><p className="contact">804-305-4878</p>
                           </div>
                           <div class="col-md-3">
-                            <p className="bit">Github: </p><a className="contact" href="https://github.com/Jsarvay">JSarvay</a>
+                            <p className="bit">Github: </p><a className="contact" href="https://github.com/Jsarvay" target={"_blank"}>JSarvay</a>
                           </div>
                           <div class="col-md-3">
-                            <p class="bit">LinkedIn: </p><a className="contact" href="https://www.linkedin.com/in/jordan-sarvay/">Jordan-Sarvay</a>
+                            <p class="bit">LinkedIn: </p><a className="contact" href="https://www.linkedin.com/in/jordan-sarvay/" target={"_blank"}>Jordan-Sarvay</a>
                           </div>
                         </div>
 
